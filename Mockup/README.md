@@ -97,10 +97,7 @@ una red social (ingresada por teclado) y una categoría seleccionada mediante un
 un boton para añadir un elemento a la tabla y esta tabla tiene un ícono que permite la eliminación de cualquiera de sus entradas
 Se destaca una buena interfaz de usuario y una buena experiencia para el usuario. 
 
-
-Finalmente se realizó el despliegue de la aplicación en Netlify y puedes ingresar a ella mediante el siguiente enlace: 
-
-""
+Para utilizar este proyecto, clona en tu entorno de desarrollo y ejecuta: *npm install*
 
 
 
