@@ -98,6 +98,11 @@ un boton para añadir un elemento a la tabla y esta tabla tiene un ícono que pe
 Se destaca una buena interfaz de usuario y una buena experiencia para el usuario. 
 
 
+Finalmente se realizó el despliegue de la aplicación en Netlify y puedes ingresar a ella mediante el siguiente enlace: 
+
+""
+
+
 
 
 
