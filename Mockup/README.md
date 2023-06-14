@@ -1,5 +1,13 @@
 ## Prueba técnica desarrollador Junior
 
+**PARA EJECUTAR ESTRE PROYECTO**
+
+1. Clonar el repositorio en el entorno de desarrollo local $git clone git@github.com:Alejou343/PruebaTecnicaCPocket.git
+2. Cambiar a la rama master: $git checkout master
+3. Ingresar a la carpeta Mockup: $cd Mockup
+4. Instalar dependencias: $npm install
+
+
 ### Ejercicios de lógica de programación
 
 **1. Función para la verificación de palíndromos**
@@ -97,7 +105,6 @@ una red social (ingresada por teclado) y una categoría seleccionada mediante un
 un boton para añadir un elemento a la tabla y esta tabla tiene un ícono que permite la eliminación de cualquiera de sus entradas
 Se destaca una buena interfaz de usuario y una buena experiencia para el usuario. 
 
-Para utilizar este proyecto, clona en tu entorno de desarrollo y ejecuta: *npm install*
 
 
 
